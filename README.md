@@ -25,6 +25,13 @@ Getting Started
 2)Create your offer by fixing the quantity and price of the product,whether you are a customer or a Farmer.
 3)Provide them with crop characteristics & details.
 4)If both the partys satisfied with their deal the deal initiation can be done.
-5)With the help of the maps provided they can meet the individual
-6)
-7)
+5)With the help of the maps provided they can meet the individual or transport the goods.
+6)Delivery of the product.
+7)Rating based upon their time of transport,quality of the product
+Future Improvements
+Some future improvements for the farm Buddy platform could include:
+•	Integrating additional payment options to provide customers with more flexibility.
+•	Adding a feature that allows customers to rate and review farmers and their products.
+•	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.
+Conclusion
+In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript, Firebase, and Amazon Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.
