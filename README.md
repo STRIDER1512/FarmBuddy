@@ -1,7 +1,7 @@
 # <h1>FarmBuddy<br>
 Your Farm Partner</h1>
 <h2>Middlemen less Initiative.
-As part of the Hackathon conducted by the Gfg Google Amd.</h2>
+Done as part of the Hackathon conducted by the Gfg,Google and Amd.</h2>
 <h2>Introduction</h2>
 In Agriculture sector there has been always middlemen between the customer and farmer,why should middlemen has to be benefited??..While the Farmer doesn't even getting the profits,if the farmer doesn't get profit who will sought the seeds for the next yield season?About 88% of the suicides of the farmers are because of the debt burden,if the farmer doesn't have enough money to grow the crops then who will grow the crops,farmer is the backbone of our country,if we are not supporting our farmers the country is not gonna survive without the backbone.To sell the agriculture product, farmer has to go through this process <br>FARMER-->CONTACT BUYER-->MEETING-->NEGOTIATION-->SAMPLE CHECK-->SALES CONTRACT-->ADVANCED PAYMENT-->PRODUCT LOAD-->TRUCK-->CUSTOMS-->SHIP-->BATCH CHECK-->UNLOAD-->TRUCK-->QUALITY CHECK-->DELIVERY-->FINAL PAYMENT-->SELLING TO VENDORS-->VENDORS SELLING-->LOCAL RETAILERS-->TO US(CUSTOMERS),This has to be the whole process for an agricultural product to reach from farmer to the customer,in this process the product may be damaged and the product may be surplused to the retailer and sometimes there may be an inflation of the product.To overcome this problem we thought and brought a solution via web application that is FarmBuddy.
 <h2>About</h2>
