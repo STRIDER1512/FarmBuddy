@@ -7,10 +7,10 @@ In the Agriculture Sector there is always been a middle man between the customer
 Farm Buddy is a farmer-to-customer online marketplace platform that aims to connect farmers directly with customers. The platform is designed to eliminate the need for intermediaries such as Brokers,Transport,thus reducing costs and providing better value for both farmers and customers.
 <h2>Technologies Used</h2>
 Frontend
-•	HTML
-•	CSS
-•	Bootstrap
-•	JavaScript
+•	HTML<br>
+•	CSS<br>
+•	Bootstrap<br>
+•	JavaScript<br>
 Backend
 •	Firebase
 •	Amd Instance(EC2 Server)
