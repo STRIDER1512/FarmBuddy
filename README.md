@@ -1,4 +1,5 @@
-# <h1>FarmBuddy</h1>
+# <h1>FarmBuddy<br>
+Your Farm Partner</h1>
 <h2>A Middle Man less Initiative.
 As a part of the Hackathon conducted by the Gfg Google Amd.</h2>
 <h2>Introduction</h2>
