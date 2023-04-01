@@ -6,34 +6,34 @@ In the Agriculture Sector there is always been a middle man between the customer
 <h2>About</h2>
 Farm Buddy is a farmer-to-customer online marketplace platform that aims to connect farmers directly with customers. The platform is designed to eliminate the need for intermediaries such as Brokers,Transport,thus reducing costs and providing better value for both farmers and customers.
 <h2>Technologies Used</h2>
-Frontend
+<h3>Frontend
 •	HTML<br>
 •	CSS<br>
 •	Bootstrap<br>
 •	JavaScript<br>
-Backend
-•	Firebase
-•	Amd Instance(EC2 Server)
-Chatbot
-The chatbot is designed to assist customers in finding answers to frequently asked questions
-<h2>Features</h2>
-The farm Buddy platform provides the following features:
-•	A simple and intuitive user interface that allows farmers to list their products and customers to search for and purchase these products.
-•	Customers can create and manage their profiles, view their order history, and track their orders.
-•	Farmers can manage their product listings, view orders, and manage their profiles.
-•	The platform is secure and provides encryption for sensitive data such as customer payment information.
-<h2>Getting Started</h2>
-1)To get started with the farm Buddy platform, users must first create an account.
-2)Create your offer by fixing the quantity and price of the product,whether you are a customer or a Farmer.
-3)Provide them with crop characteristics & details.
-4)If both the partys satisfied with their deal the deal initiation can be done.
-5)With the help of the maps provided they can meet the individual or transport the goods.
-6)Delivery of the product.
-7)Rating based upon their time of transport,quality of the product
-<h2>Future Improvements</h2>
-Some future improvements for the farm Buddy platform could include:
-•	Integrating additional payment options to provide customers with more flexibility.
-•	Adding a feature that allows customers to rate and review farmers and their products.
-•	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..
-<h2>Conclusion</h2>
+<h3>Backend</h3><br>
+•	Firebase<br>
+•	Amd Instance(EC2 Server)<br>
+Chatbot<br>
+The chatbot is designed to assist customers in finding answers to frequently asked questions<br>
+<h2>Features</h2><br>
+The farm Buddy platform provides the following features:<br>
+•	A simple and intuitive user interface that allows farmers to list their products and customers to search for and purchase these products.<br>
+•	Customers can create and manage their profiles, view their order history, and track their orders.<br>
+•	Farmers can manage their product listings, view orders, and manage their profiles.<br>
+•	The platform is secure and provides encryption for sensitive data such as customer payment information.<br>
+<h2>Getting Started</h2><br>
+1)To get started with the farm Buddy platform, users must first create an account.<br>
+2)Create your offer by fixing the quantity and price of the product,whether you are a customer or a Farmer.<br>
+3)Provide them with crop characteristics & details.<br>
+4)If both the partys satisfied with their deal the deal initiation can be done.<br>
+5)With the help of the maps provided they can meet the individual or transport the goods.<br>
+6)Delivery of the product.<br>
+7)Rating based upon their time of transport,quality of the product<br>
+<h2>Future Improvements</h2><br>
+Some future improvements for the farm Buddy platform could include:<br>
+•	Integrating additional payment options to provide customers with more flexibility.<br>
+•	Adding a feature that allows customers to rate and review farmers and their products.<br>
+•	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..<br>
+<h2>Conclusion</h2><br>
 In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript, Firebase, and Amazon Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.
