@@ -24,7 +24,7 @@ The farm Buddy platform provides the following features:<br>
 •	Farmers can manage their product listings, view orders, and manage their profiles.<br>
 •	The platform is secure and provides encryption for sensitive data such as customer payment information.<br>
 <h2>Getting Started</h2><br>
-1)To get started with the farm Buddy platform, users must first create an account.<br>
+1)To get started with the FarmBuddy platform, users must first create an account.<br>
 2)Create your offer by fixing the quantity and price of the product,whether you are a customer or a Farmer.<br>
 3)Provide them with crop characteristics & details.<br>
 4)If both the partys satisfied with their deal the deal initiation can be done.<br>
