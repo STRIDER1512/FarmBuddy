@@ -16,6 +16,7 @@ Farm Buddy is a farmer-to-customer online marketplace platform that aims to conn
 •	Firebase<br>
 •	Amd Instance(EC2 Server)<br>
 <h3>Chatbot</h3><br>
+•DialogFlowAPI<br>
 The chatbot is designed to assist customers in finding answers to frequently asked questions<br>
 <h2>Features</h2><br>
 The farm Buddy platform provides the following features:<br>
