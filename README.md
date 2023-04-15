@@ -42,5 +42,5 @@ In conclusion, farm Buddy is a farmer-to-customer online marketplace platform th
 <h2>Contributors</h2><br>
 •Srikar Tenneti<br>
 •Sriraj Tata<br>
+•Sudhish Amiti<br>
 •Himaja Vendra<br>
-•Dhanush Tottara<br>
