@@ -1,7 +1,0 @@
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="FarmBuddy"
-  agent-id="e1f83922-37a6-488b-9c06-b8cc656319b3"
-  language-code="en"
-></df-messenger>
