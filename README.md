@@ -13,11 +13,21 @@ Farm Buddy is a farmer-to-customer online marketplace platform that aims to conn
 •	Bootstrap<br>
 •	JavaScript<br>
 <h3>Backend</h3><br>
-•	Google Firebase<br>
+•	Google<br>
 •	Amd Instance(EC2 Server)<br>
+<h3>APIs</h3>
+•	Video SDK<br>
+•	Google maps<br>
 <h3>Chatbot</h3><br>
 •DialogFlowAPI<br>
 The chatbot is designed to assist customers in finding answers to frequently asked questions<br>
+<h3>Tools Used</h3>
+•	Github<br>
+•	Discord<br>
+•	Unsplash<br>
+•	GeeksforGeeks<br>
+•	Accuweather<br>
+
 <h2>Features</h2><br>
 The farm Buddy platform provides the following features:<br>
 •	A simple and intuitive user interface that allows farmers to list their products and customers to search for and purchase these products.<br>
@@ -26,19 +36,17 @@ The farm Buddy platform provides the following features:<br>
 •	The platform is secure and provides encryption for sensitive data such as customer payment information.<br>
 <h2>Getting Started</h2><br>
 1)To get started with the FarmBuddy platform, users must first create an account.<br>
-2)Create your offer by fixing the quantity and price of the product,whether you are a customer or a Farmer.<br>
-3)Provide them with crop characteristics & details.<br>
-4)If both the partys satisfied with their deal the deal initiation can be done.<br>
-5)With the help of the maps provided they can meet the individual or transport the goods.<br>
-6)Delivery of the product.<br>
+2)Create your offer by fixing the quantity and price of the product.<br>
+3)With the help of the maps provided they can meet the individual or transport the goods.<br>
+6)Customers can contact farmers virtually through the video calling feature .<br>
 7)Rating based upon their time of transport,quality of the product<br>
 <h2>Future Improvements</h2><br>
 Some future improvements for the farm Buddy platform could include:<br>
 •	Integrating additional payment options to provide customers with more flexibility.<br>
-•	Adding a feature that allows customers to rate and review farmers and their products.<br>
+•	Adding a feature that allows customers to rate and review farmers.<br>
 •	Incorporating data analytics to provide farmers with insights on product demand and customer preferences.etc..<br>
 <h2>Conclusion</h2><br>
-In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript, Firebase, and Amazon Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.<br>
+In conclusion, farm Buddy is a farmer-to-customer online marketplace platform that provides a simple, secure, and cost-effective way for farmers to connect with customers directly. The platform leverages modern technologies such as HTML, CSS, Bootstrap, JavaScript,and AMD Instances to provide a seamless and efficient user experience. The inclusion of a chatbot further enhances the customer experience by providing quick and easy access to important information.<br>
 <h2>Contributors</h2><br>
 •Srikar Tenneti<br>
 •Sriraj Tata<br>
