@@ -56,8 +56,8 @@ In conclusion, farm Buddy is a farmer-to-customer online marketplace platform th
 •Architecture-x86/64<br>
 •Zone-Las Vegas(us-west4-b)<br>
 •<a href="http://34.125.9.93"> 34.125.9.93 </a><br>
-<img src="C:\Users\srira\Pictures\Screenshots\FarmBuddy1.png">
-<img src="C:\Users\srira\Pictures\Screenshots\FarmBuddy2.png">
+<img src="https://user-images.githubusercontent.com/95526528/232857975-04ff720c-b5bf-4e5d-92ef-953dc9ef121f.png">
+<img src="https://user-images.githubusercontent.com/95526528/232858102-55f2ddcd-b4d0-4ee8-8ff8-89170c718bd9.png">
 <h2>Contributors</h2><br>
 •Srikar Tenneti-Leader,Developer,UI/UX Designer<a href="https://github.com/tinkten7">GITHUB    -</a> <a href="https://www.linkedin.com/in/srikar-tenneti-849522235/">LinkedIn</a><br>
 •Sriraj Tata-Co-Leader,Developer,Cloud Developer,Tester<a href="https://github.com/STRIDER1512">GITHUB    -</a> <a href="https://www.linkedin.com/in/sriraj-tata-0499b7228/">LinkedIn</a><br>
